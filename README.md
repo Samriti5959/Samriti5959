@@ -1,8 +1,6 @@
-# Hi 👋, I'm Samriti Bhatia
-
-### Data Engineer | Data Analyst | Power BI Developer
-
-📍 Brampton, Ontario, Canada
+<p align="center">
+  <img src="png.png" alt="Samriti Banner" width="100%">
+</p>
 
 ---
 
