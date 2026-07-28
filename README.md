@@ -79,23 +79,70 @@
 
 ---
 
-## Featured Projects
+## 📁 Featured Projects
 
-### 🍽 Canadian Restaurant Sales Analytics
+<table>
+<tr>
 
-End-to-end analytics solution using Microsoft Fabric, SQL, Python and Power BI.
+<td width="33%" valign="top">
 
----
+### 🏥 [Clinical Data Integration & Analytics Platform]
 
-### 🏥 Clinical Data Integration & Analytics
+<small>
+Built an enterprise healthcare analytics platform using Microsoft Fabric with Medallion Architecture, automated ETL pipelines, and interactive Power BI dashboards.
+</small>
 
-Enterprise healthcare analytics platform built using Microsoft Fabric.
+<br><br>
 
----
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
 
-### ⚡ AI Retail Operations Platform
+</td>
 
-Retail analytics platform using SQL and Python.
+<td width="33%" valign="top">
+
+### ⚡ [Real-Time IoT Monitoring & Energy Analytics]
+
+<small>
+Developed a real-time monitoring platform for IoT sensor data using Microsoft Fabric, Power BI, Data Activator, and automated alerts.
+</small>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Data%20Activator-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square">
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🍜 [Canadian Restaurant Sales Analytics]
+
+<small>
+Created an end-to-end restaurant analytics solution featuring sales KPIs, product performance, inventory monitoring, and customer insights.
+</small>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Samriti5959?tab=repositories">
+    🔗 View More Projects
+  </a>
+</p>
 
 ---
 
