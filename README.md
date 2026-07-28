@@ -79,28 +79,45 @@ I enjoy transforming complex data into actionable insights that support better b
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
+### 💻 Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0F9D58?style=flat-square)
+![Power Query M](https://img.shields.io/badge/Power_Query_M-217346?style=flat-square)
+### 📊 Data Analytics & BI
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-00B294?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![OneLake](https://img.shields.io/badge/OneLake-4A90E2?style=flat-square)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-6366F1?style=flat-square)
+![Warehouse](https://img.shields.io/badge/Warehouse-4338CA?style=flat-square)
+![Semantic Models](https://img.shields.io/badge/Semantic_Models-7C3AED?style=flat-square)
+![Direct Lake](https://img.shields.io/badge/Direct_Lake-3B82F6?style=flat-square)
+### ☁️ Cloud & Integration
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-1F78D1?style=flat-square)
+![Fabric Data Pipelines](https://img.shields.io/badge/Fabric_Data_Pipelines-00B294?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square)
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square)
+### ⚙️ Automation & Tools
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+### 📈 Methodologies
+![ETL](https://img.shields.io/badge/ETL-16A34A?style=flat-square)
+![ELT](https://img.shields.io/badge/ELT-2563EB?style=flat-square)
+![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-F59E0B?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-8B5CF6?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-22C55E?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-0EA5E9?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-A855F7?style=flat-square)
 
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</p>
----
 ## 📁 Featured Projects
 
 <table>
