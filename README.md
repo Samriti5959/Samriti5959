@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Samriti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Power+BI+Developer;Microsoft+Fabric+Specialist;SQL+%7C+Python+%7C+PySpark" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Data+Engineer;Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+PySpark" alt="Typing animation">
 </p>
 <h3 align="center">🤝 Connect with Me</h3>
 
@@ -39,18 +39,43 @@
 
 ---
 
-## Core Competencies
+## 🛠️ Tech Stack
 
-- Microsoft Fabric
-- Power BI
-- SQL
-- Python
-- PySpark
-- Azure Data Factory
-- ETL / ELT
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+---
+
+### 💡 Core Skills
+
+- Data Engineering
+- Data Analytics
+- ETL / ELT Pipelines
 - Data Modeling
 - DAX
-- Power Automate
+- Power Query
+- Lakehouse Architecture
+- Medallion Architecture
+- OneLake
+- Data Warehouse
+- KPI Reporting
+- Dashboard Development
 
 ---
 
