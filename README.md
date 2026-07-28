@@ -53,6 +53,31 @@ I enjoy transforming complex data into actionable insights that support better b
 </table>
 
 ---
+### 🚀 Core Competencies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-2563EB?style=flat-square&logo=azurepipelines&logoColor=white" alt="ETL ELT">
+
+<img src="https://img.shields.io/badge/Data%20Modeling-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Data Modeling">
+
+<img src="https://img.shields.io/badge/SQL%20%26%20T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL TSQL">
+
+<img src="https://img.shields.io/badge/Python%20%26%20PySpark-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python PySpark">
+
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">
+
+<img src="https://img.shields.io/badge/KPI%20%26%20Reporting-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="KPI Reporting">
+
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -76,24 +101,6 @@ I enjoy transforming complex data into actionable insights that support better b
 
 </p>
 ---
-
-### 💡 Core Skills
-
-- Data Engineering
-- Data Analytics
-- ETL / ELT Pipelines
-- Data Modeling
-- DAX
-- Power Query
-- Lakehouse Architecture
-- Medallion Architecture
-- OneLake
-- Data Warehouse
-- KPI Reporting
-- Dashboard Development
-
----
-
 ## 📁 Featured Projects
 
 <table>
