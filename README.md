@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="png.png" alt="Samriti Banner" width="100%">
+  <img src="png.png" alt="Samriti Banner" width="80%">
 </p>
 
 <h2 align="center">Hi 👋, I'm Samriti</h2>
@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 ---
 
 ## 👩‍💻 About Me
