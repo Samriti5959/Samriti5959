@@ -2,13 +2,6 @@
   <img src="png.png" alt="Samriti Banner" width="80%">
 </p>
 
-<h2 align="center">Hi 👋, I'm Samriti</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=Senior+Data+Engineer;Data+Analyst;Power+BI+Developer"
-    alt="Typing animation">
-</p>
 
 <h4 align="center">🤝 Connect with Me</h4>
 
