@@ -179,20 +179,8 @@ Created an end-to-end restaurant analytics solution featuring sales KPIs, produc
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
-- DP-600
-- DP-700
-- DP-800
-- AI-900
-- IBM Data Analyst Professional Certificate
-
----
-
-## Connect with Me
-
-📧 samritibhatia7871@gmail.com
-
-💼 LinkedIn
-
-🐙 GitHub
+<p align="center">
+  <img src="assets/certifications.png" alt="Certifications" width="100%">
+</p>
