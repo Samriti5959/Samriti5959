@@ -2,40 +2,55 @@
   <img src="png.png" alt="Samriti Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Samriti</h1>
+<h2 align="center">Hi 👋, I'm Samriti</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Data+Engineer;Data+Analyst;Power+BI+Developer" alt="Typing animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=Senior+Data+Engineer;Data+Analyst;Power+BI+Developer"
+    alt="Typing animation">
 </p>
-<h3 align="center">🤝 Connect with Me</h3>
+
+<h4 align="center">🤝 Connect with Me</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samriti-bhatia-128776212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/samriti-bhatia-128776212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
   <a href="mailto:samritibhatia7871@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
   <a href="https://github.com/Samriti5959">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎯 Data Engineer passionate about building scalable data platforms.
+<table width="100%">
+<tr>
 
-📊 Experienced in developing interactive Power BI dashboards and business intelligence solutions.
+<td width="62%" valign="top">
+<small>
+Data professional with 4+ years of experience in data analytics, reporting, and data engineering.<br>
+I build end-to-end analytics solutions using Microsoft Fabric, Power BI, SQL, Python, PySpark, and Azure.<br>
+I enjoy transforming complex data into actionable insights that support better business decisions and drive business growth.
+</small>
+</td>
 
-🏗️ Specialized in Microsoft Fabric, SQL, Python, and PySpark.
+<td width="38%" valign="top">
+<small>
+🎯 4+ Years of Experience<br>
+📊 Power BI Dashboard Development<br>
+⚡ ETL / ELT Pipeline Development<br>
+🚀 Performance Improvement &amp; Automation<br>
+🕒 Real-Time Monitoring Solutions<br>
+🌱 Continuous Learner
+</small>
+</td>
 
-🚀 Interested in Data Engineering, Analytics, and AI-driven solutions.
-
-🌱 Constantly learning and building enterprise-grade data projects.
+</tr>
+</table>
 
 ---
 
