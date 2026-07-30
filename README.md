@@ -14,13 +14,11 @@
 
 ## 👩‍💻 About Me
 
-<table width="100%">
+<table width="60%">
   <tr>
     <td width="62%" valign="top">
       Data professional with <strong>4+ years of experience</strong> in data analytics, reporting, and data engineering.
-      <br><br>
       I build end-to-end analytics solutions using <strong>Microsoft Fabric, Power BI, SQL, Python, PySpark, and Azure</strong>.
-      <br><br>
       I enjoy transforming complex data into actionable insights that support informed decision-making, operational efficiency, and business growth.
     </td>
     <td width="38%" valign="top">
@@ -122,32 +120,42 @@
 
 <table width="100%">
 <tr>
+
 <td width="33%" valign="top">
-<h3>🏥 Clinical Data Integration &amp; Analytics Platform</h3>
-<p>Built an enterprise healthcare analytics platform using Microsoft Fabric with Medallion Architecture, automated ETL pipelines, and interactive Power BI dashboards.</p>
-<br>
-<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">&nbsp;<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"></p>
+<h4>🏥 Clinical Data Analytics</h4>
+<small>
+Built Fabric-based Medallion pipelines and Power BI dashboards for clinical reporting and data quality.
+</small>
+<br><br>
+<img src="https://img.shields.io/badge/Fabric-00B294?style=flat-square" alt="Fabric">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
 </td>
+
 <td width="33%" valign="top">
-<h3>⚡ Real-Time IoT Monitoring &amp; Energy Analytics</h3>
-<p>Developed a near real-time IoT monitoring platform using Microsoft Fabric, Power BI, Data Activator, and automated alerts to improve operational visibility.</p>
-<br>
-<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;<img src="https://img.shields.io/badge/Data%20Activator-7C3AED?style=flat-square" alt="Data Activator">&nbsp;<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate"></p>
+<h4>⚡ Real-Time IoT Analytics</h4>
+<small>
+Developed near real-time sensor monitoring, dashboards, and automated operational alerts.
+</small>
+<br><br>
+<img src="https://img.shields.io/badge/Fabric-00B294?style=flat-square" alt="Fabric">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Data%20Activator-7C3AED?style=flat-square" alt="Data Activator">
 </td>
+
 <td width="33%" valign="top">
-<h3>🍜 Canadian Restaurant Sales Analytics</h3>
-<p>Created an end-to-end restaurant analytics solution covering sales KPIs, product performance, inventory monitoring, store performance, and customer insights.</p>
-<br>
-<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"></p>
+<h4>🍜 Restaurant Sales Analytics</h4>
+<small>
+Created dashboards for sales, product performance, inventory, and customer insights.
+</small>
+<br><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </td>
+
 </tr>
 </table>
----
-
-
-<p align="center">
-<a href="https://github.com/Samriti5959?tab=repositories"><strong>🔗 View More Projects</strong></a>
-</p>
 
 ---
 
