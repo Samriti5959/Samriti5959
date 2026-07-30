@@ -116,64 +116,42 @@
 
 ---
 
+---
+
 ## 📁 Featured Projects
 
 <table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏥 Clinical Data Integration &amp; Analytics Platform</h3>
-      <p>
-        Built an enterprise healthcare analytics platform using Microsoft Fabric with Medallion Architecture, automated ETL pipelines, and interactive Power BI dashboards.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
-      </p>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>⚡ Real-Time IoT Monitoring &amp; Energy Analytics</h3>
-      <p>
-        Developed a near real-time IoT monitoring platform using Microsoft Fabric, Power BI, Data Activator, and automated alerts to improve operational visibility.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-        <img src="https://img.shields.io/badge/Data%20Activator-7C3AED?style=flat-square" alt="Data Activator">
-        <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate">
-      </p>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>🍜 Canadian Restaurant Sales Analytics</h3>
-      <p>
-        Created an end-to-end restaurant analytics solution covering sales KPIs, product performance, inventory monitoring, store performance, and customer insights.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h3>🏥 Clinical Data Integration &amp; Analytics Platform</h3>
+<p>Built an enterprise healthcare analytics platform using Microsoft Fabric with Medallion Architecture, automated ETL pipelines, and interactive Power BI dashboards.</p>
+<br>
+<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">&nbsp;<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"></p>
+</td>
+<td width="33%" valign="top">
+<h3>⚡ Real-Time IoT Monitoring &amp; Energy Analytics</h3>
+<p>Developed a near real-time IoT monitoring platform using Microsoft Fabric, Power BI, Data Activator, and automated alerts to improve operational visibility.</p>
+<br>
+<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;<img src="https://img.shields.io/badge/Data%20Activator-7C3AED?style=flat-square" alt="Data Activator">&nbsp;<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate"></p>
+</td>
+<td width="33%" valign="top">
+<h3>🍜 Canadian Restaurant Sales Analytics</h3>
+<p>Created an end-to-end restaurant analytics solution covering sales KPIs, product performance, inventory monitoring, store performance, and customer insights.</p>
+<br>
+<p><img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"></p>
+</td>
+</tr>
 </table>
+---
+
 
 <p align="center">
-  <a href="https://github.com/Samriti5959?tab=repositories">
-    <strong>🔗 View More Projects</strong>
-  </a>
+<a href="https://github.com/Samriti5959?tab=repositories"><strong>🔗 View More Projects</strong></a>
 </p>
 
 ---
-
 ## 🏆 Certifications
 
-<p align="center">
-  <img src="./assets/certifications.png" alt="Samriti Bhatia Professional Certifications" width="100%">
+<p align="left">
+  <img src="./c.ertifications.png" alt="Samriti Bhatia GitHub Banner" width="80%">
 </p>
