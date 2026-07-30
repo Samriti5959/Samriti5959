@@ -182,5 +182,5 @@ Created an end-to-end restaurant analytics solution featuring sales KPIs, produc
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="assets/certifications.png" alt="Certifications" width="100%">
+  <img src="assets/certifications.png" alt="ertifications" width="100%">
 </p>
