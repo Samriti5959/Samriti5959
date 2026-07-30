@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./png.png" alt="Samriti Bhatia GitHub Banner" width="80%">
+  <img src="./png.png" alt="Samriti Bhatia GitHub Banner" width="70%">
 </p>
 
 <h4 align="center">🤝 Connect with Me</h4>
@@ -150,8 +150,9 @@
 </p>
 
 ---
+
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="./c.ertifications.png" alt="Samriti Bhatia GitHub Banner" width="80%">
+  <img src="./certifications.png" alt="Samriti Bhatia Professional Certifications" width="60%">
 </p>
