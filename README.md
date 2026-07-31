@@ -112,9 +112,8 @@
 
 ## 📁 Featured Projects
 
-<table width="100%">
+<table width="70%">
 <tr>
-
 <td width="33%" valign="top">
 <h4>🏥 Clinical Data Analytics</h4>
 <small>
