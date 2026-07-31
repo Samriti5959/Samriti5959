@@ -21,7 +21,7 @@
       I build end-to-end analytics solutions using <strong>Microsoft Fabric, Power BI, SQL, Python, PySpark, and Azure</strong>.
       I enjoy transforming complex data into actionable insights that support informed decision-making, operational efficiency, and business growth.
     </td>
-    <td width="38%" valign="top">
+    <td width="30%" valign="top">
       🎯 4+ Years of Experience<br>
       📊 Power BI Dashboard Development<br>
       ⚡ ETL/ELT Pipeline Development<br>
