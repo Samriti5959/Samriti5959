@@ -155,5 +155,5 @@ Created dashboards for sales, product performance, inventory, and customer insig
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="./certifications.png" alt="Samriti Bhatia Professional Certifications" width="60%">
+  <img src="./certifications.png" alt="Samriti Bhatia Professional Certifications" width="50%">
 </p>
