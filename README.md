@@ -16,7 +16,7 @@
 
 <table width="60%">
   <tr>
-    <td width="62%" valign="top">
+    <td width="55%" valign="top">
       Data professional with <strong>4+ years of experience</strong> in data analytics, reporting, and data engineering.
       I build end-to-end analytics solutions using <strong>Microsoft Fabric, Power BI, SQL, Python, PySpark, and Azure</strong>.
       I enjoy transforming complex data into actionable insights that support informed decision-making, operational efficiency, and business growth.
@@ -53,7 +53,6 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;
@@ -63,7 +62,6 @@
 </p>
 
 ### 📊 Data Analytics and Business Intelligence
-
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-00B294?style=flat-square" alt="Microsoft Fabric">&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;
@@ -75,7 +73,6 @@
 </p>
 
 ### ☁️ Cloud and Data Integration
-
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">&nbsp;
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-1F78D1?style=flat-square" alt="Azure Data Factory">&nbsp;
@@ -84,14 +81,12 @@
 </p>
 
 ### 🗄️ Databases
-
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">&nbsp;
   <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL">
 </p>
 
 ### ⚙️ Automation and Development Tools
-
 <p>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">&nbsp;
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps">&nbsp;
@@ -101,7 +96,6 @@
 </p>
 
 ### 📈 Methodologies
-
 <p>
   <img src="https://img.shields.io/badge/ETL-16A34A?style=flat-square" alt="ETL">&nbsp;
   <img src="https://img.shields.io/badge/ELT-2563EB?style=flat-square" alt="ELT">&nbsp;
