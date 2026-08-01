@@ -108,8 +108,6 @@
 
 ---
 
----
-
 ## 📁 Featured Projects
 
 <table width="70%">
