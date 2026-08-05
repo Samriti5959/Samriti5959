@@ -34,7 +34,6 @@
 
 ---
 
-
 ## 🚀 Core Competencies
 
 <p align="center">
