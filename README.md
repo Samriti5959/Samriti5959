@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./png.png" alt="Samriti Bhatia GitHub Banner" width="70%">
 </p>
-
 <h4 align="center">🤝 Connect with Me</h4>
 
 <p align="center">
