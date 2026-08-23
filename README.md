@@ -4,7 +4,6 @@
 <h4 align="center">🤝 Connect with Me</h4>
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/samriti-bhatia-128776212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:samritibhatia7871@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
   <a href="https://github.com/Samriti5959"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
