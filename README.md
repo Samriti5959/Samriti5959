@@ -11,8 +11,6 @@
 
 ---
 
-
-
 ## 👩‍💻 About Me
 
 <table width="60%">
